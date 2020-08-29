@@ -5,4 +5,4 @@ I have shown the following steps in the jupyter notebook(tfds.ipynb):
   - How to get info about a particular dataset
   - And how to load the dataset
   
-  For indepth information, please visit [TensorFlow Datasets](https://www.tensorflow.org/datasets/overview)
+  For indepth information and guidelines, please visit [TensorFlow Datasets](https://www.tensorflow.org/datasets/overview)
