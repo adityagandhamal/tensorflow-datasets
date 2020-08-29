@@ -1,4 +1,4 @@
-In this project, I have introduced how to make use of the datasets provided by TensorFlow itself.
+In this project, I have given an introduction to how to make use of the datasets provided by TensorFlow itself.
 I have shown the following steps in the jupyter notebook(tfds.ipynb):
   - How to import the package
   - Find Available Datasets
